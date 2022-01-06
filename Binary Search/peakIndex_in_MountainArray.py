@@ -1,4 +1,6 @@
-# Using binary search to find the square root of a number
+# https://leetcode.com/problems/peak-index-in-a-mountain-array/
+
+
 import time
 start = time.time()
 
